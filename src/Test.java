@@ -5,5 +5,6 @@ public class Test {
         System.out.println("Hello World");
         System.out.println("Dzien Dobry!");
         System.out.println("Guten Tag");
+        System.out.println("Halo");
     }
 }
